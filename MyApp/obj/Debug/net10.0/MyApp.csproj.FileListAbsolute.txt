@@ -1,0 +1,15 @@
+/workspaces/csharp-test/MyApp/bin/Debug/net10.0/MyApp
+/workspaces/csharp-test/MyApp/bin/Debug/net10.0/MyApp.deps.json
+/workspaces/csharp-test/MyApp/bin/Debug/net10.0/MyApp.runtimeconfig.json
+/workspaces/csharp-test/MyApp/bin/Debug/net10.0/MyApp.dll
+/workspaces/csharp-test/MyApp/bin/Debug/net10.0/MyApp.pdb
+/workspaces/csharp-test/MyApp/obj/Debug/net10.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-test/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfoInputs.cache
+/workspaces/csharp-test/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfo.cs
+/workspaces/csharp-test/MyApp/obj/Debug/net10.0/MyApp.csproj.CoreCompileInputs.cache
+/workspaces/csharp-test/MyApp/obj/Debug/net10.0/MyApp.sourcelink.json
+/workspaces/csharp-test/MyApp/obj/Debug/net10.0/MyApp.dll
+/workspaces/csharp-test/MyApp/obj/Debug/net10.0/refint/MyApp.dll
+/workspaces/csharp-test/MyApp/obj/Debug/net10.0/MyApp.pdb
+/workspaces/csharp-test/MyApp/obj/Debug/net10.0/MyApp.genruntimeconfig.cache
+/workspaces/csharp-test/MyApp/obj/Debug/net10.0/ref/MyApp.dll
